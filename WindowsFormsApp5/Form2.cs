@@ -23,7 +23,7 @@ namespace WindowsFormsApp5
             label15.Text = frm.ad;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) // asad
         {
             int toplam_dogru = 0;
             int toplam_yanlis = 0;
